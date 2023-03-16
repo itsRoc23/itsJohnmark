@@ -1,0 +1,7 @@
+{
+
+  "scripts": {
+    "deploy:surge": "npm run build && surge build my-hobby-project.surge.sh"
+  }
+
+}
